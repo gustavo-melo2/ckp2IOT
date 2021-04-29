@@ -1,2 +1,3 @@
-# ckp2IOT
-Arquivos e vídeo demonstração do checkpoint 2 da matéria de IOT.
+# Checpoint 2 IOT
+2TDSA - Gustavo Henrique Garrido de Melo - RM85136
+Link do video demostração:
